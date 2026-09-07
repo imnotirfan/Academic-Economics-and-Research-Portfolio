@@ -2,19 +2,19 @@
 
 ## Overview
 
-This research examines how ride-sharing employment affects the **academic performance, health, and university progression** of private university students in Dhaka.
+This research examines the relationship between **ride-sharing employment and educational outcomes** among private university students in Dhaka.
 
-Using primary survey data from student drivers, the study compares students working **more than 5 hours per day** with those working 5 hours or less. It also examines why students enter ride-sharing and the potential trade-off between immediate income and long-term educational outcomes.
+Using a survey of student drivers, the study compares students working **more than 5 hours per day** with those working **5 hours or less**, focusing on academic performance, absenteeism, health, and dropout considerations. It also examines the financial reasons students participate in ride-sharing.
 
 ## Research Objectives
 
 The research aims to:
 
 * Examine the relationship between working hours and academic performance.
-* Assess academic absenteeism and potential graduation disruption.
-* Examine health and fatigue among student drivers.
-* Identify the main financial motivations for working.
-* Evaluate the short-term income versus potential long-term costs of intensive employment.
+* Assess work-related academic absenteeism.
+* Examine physical and mental health impacts.
+* Identify the main financial motivations for ride-sharing employment.
+* Explore the potential long-term costs of intensive student employment.
 
 ## Primary Survey
 
@@ -22,36 +22,43 @@ The study surveyed **40 student drivers from 15 private universities across Dhak
 
 ### Main Reasons for Working
 
-* **Tuition and academic expenses:** 50%
+* **Tuition and academic fees:** 50%
 * **Living expenses:** 15%
-* **Income generation:** 7.5%
-* **Other financial needs:** 27.5%
+* **Income generation / freelancing:** 7.5%
+* **Savings and emergency funds:** 5%
+* **Family support and emergencies:** 5%
+* **Debt and loan repayments:** 5%
+* **Skill development:** 5%
+* **Medical costs:** 5%
+* **Startup capital / miscellaneous:** 2.5%
 
 ### Education Spending
 
-Students with lower monthly ride-sharing earnings allocated a larger share of their income toward education:
+The reported share of ride-sharing income spent on education was:
 
-* **BDT 8,000–12,000:** 57%
-* **BDT 12,000–15,000:** 45%
-* **BDT 15,000–18,000:** 32%
+* **BDT 8,000–12,000/month:** 57%
+* **BDT 12,000–15,000/month:** 45%
+* **BDT 15,000–18,000/month:** 32%
 
 ## Key Findings
 
 ### Academic Performance
 
-Students working **more than 5 hours per day** reported substantially worse academic outcomes:
+**Students working more than 5 hours/day:**
 
-* **100%** reported academic decline.
-* **94%** reported severe grade drops.
+* 100% reported academic decline.
+* 94% reported severe grade drops.
+* 6% reported non-severe grade drops.
 
-Among students working **5 hours or less**:
+**Students working 5 hours/day or less:**
 
-* **61%** reported no change in grades.
-* **9%** reported severe grade drops.
+* 61% reported no change in grades.
+* 30% reported non-severe grade drops.
+* 9% reported severe grade drops.
 
 ### Absenteeism
 
-* **>5 hours/day:** 100% missed classes or examinations because of work.
+* **>5 hours/day:** 100% reported missing classes or examinations because of work.
 * **≤5 hours/day:** 26.1% reported missing classes or examinations.
 
 ### Health
@@ -61,53 +68,48 @@ Among students working **5 hours or less**:
 
 ### Dropout Consideration
 
-* **>5 hours/day:** 94.1% had considered dropping out.
-* **≤5 hours/day:** 4.3% had considered dropping out.
+* **>5 hours/day:** 16 of 17 students (94.1%) had considered dropping out.
+* **≤5 hours/day:** 1 of 23 students (4.3%) had considered dropping out.
 
-These findings show a strong **association between intensive ride-sharing work and poorer academic and personal outcomes**, although the survey does not establish causation.
+The survey therefore shows a **strong association between intensive ride-sharing work and poorer reported academic, health, and university-progression outcomes**. However, the cross-sectional sample does not establish that working longer hours directly causes these outcomes.
 
 ## Economic Framework
 
-The study views student employment as a **time-allocation and opportunity-cost problem**:
+The study treats student employment as a **time-allocation and opportunity-cost problem**:
 
 $$
 T=A+H+S+L
 $$
 
-where students divide their limited time between university, work, study, and personal needs.
+where students divide their time between university, ride-sharing work, study, and personal needs.
 
-Greater work intensity may reduce study and recovery time:
-
-$$
-H\uparrow \rightarrow \text{Academic Disruption}\uparrow
-$$
-
-Potential long-term costs are then compared with ride-sharing earnings:
+As work hours increase, the time available for study and recovery may decrease:
 
 $$
-NPV =
-PV(\text{Ride-sharing Income})
--
-\text{Additional Education Costs}
--
-PV(\text{Foregone Earnings})
+\frac{\partial S}{\partial H}<0
 $$
 
-This framework evaluates whether short-term income may involve significant long-term opportunity costs.
+The study also considers the potential long-term financial trade-off:
+
+### Net Present Value (NPV)
+
+**NPV = Present Value of Ride-Sharing Income − Additional Education Costs − Present Value of Foregone Earnings**
+
+This framework examines whether short-term ride-sharing income may involve longer-term educational and opportunity costs.
 
 ## Key Economic Insights
 
-1. **Employment intensity matters.**
-   Intensive work is associated with substantially poorer academic outcomes.
+1. **Work intensity matters.**
+   Students working more than 5 hours daily reported substantially poorer academic and health outcomes.
 
-2. **Ride-sharing provides important financial support.**
-   Half of respondents primarily worked to meet tuition and academic expenses.
+2. **Financial need is a major motivation.**
+   Tuition and academic expenses were the primary reason for half of the respondents.
 
-3. **Income has an opportunity cost.**
-   Additional working hours may come at the expense of study, health, and academic progression.
+3. **Student employment involves opportunity costs.**
+   Time spent working may reduce time available for studying, attending classes, and recovering.
 
-4. **There is a trade-off between immediate income and long-term outcomes.**
-   The study examines when additional employment may become economically counterproductive for students.
+4. **Short-term income may involve long-term trade-offs.**
+   Academic disruption could potentially increase educational costs or delay entry into professional employment.
 
 ## Research Approach
 
@@ -136,7 +138,7 @@ The research uses:
 ### Research
 
 * Primary survey research
-* Data collection
+* Field data collection
 * Descriptive statistical analysis
 * Comparative analysis
 * Quantitative data interpretation
@@ -154,7 +156,7 @@ The research uses:
 
 ### Research Presentation
 
-`Presentation-Effects-of-Ride-Sharing-Employment.pdf` — Complete presentation containing the survey methodology, empirical findings, economic framework, and conclusions.
+`Presentation-Effects-of-Ride-Sharing-Employment.pdf` — Complete research presentation containing the survey methodology, empirical findings, economic framework, and conclusions.
 
 ## Academic Context
 
@@ -164,4 +166,3 @@ The research uses:
 **Degree:** Bachelor of Social Science (Economics)
 
 This research was completed as part of undergraduate economics coursework.
-
